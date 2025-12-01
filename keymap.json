@@ -6631,5 +6631,6 @@
   "macros": [],
   "inputListeners": [],
   "holdTaps": [],
-  "combos": []
+  "combos": [],
+  "custom_defined_devicetree": ""
 }
