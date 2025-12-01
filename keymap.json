@@ -245,15 +245,6 @@
         "value": "&kp",
         "params": [
           {
-            "value": "U",
-            "params": []
-          }
-        ]
-      },
-      {
-        "value": "&kp",
-        "params": [
-          {
             "value": "O",
             "params": []
           }
@@ -263,7 +254,16 @@
         "value": "&kp",
         "params": [
           {
-            "value": "SEMI",
+            "value": "U",
+            "params": []
+          }
+        ]
+      },
+      {
+        "value": "&kp",
+        "params": [
+          {
+            "value": "EQUAL",
             "params": []
           }
         ]
@@ -348,7 +348,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&LeftMiddy (E, LAYER_Enthium)",
+            "value": "&LeftMiddy (A, LAYER_Enthium)",
             "params": []
           }
         ]
@@ -357,7 +357,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&LeftIndex (A, LAYER_Enthium)",
+            "value": "&LeftIndex (E, LAYER_Enthium)",
             "params": []
           }
         ]
@@ -366,7 +366,7 @@
         "value": "&kp",
         "params": [
           {
-            "value": "COMMA",
+            "value": "SEMI",
             "params": []
           }
         ]
@@ -456,7 +456,7 @@
         "value": "&kp",
         "params": [
           {
-            "value": "EQUAL",
+            "value": "COMMA",
             "params": []
           }
         ]
@@ -528,7 +528,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb LAYER_System ENTER",
+            "value": "&thumb LAYER_Symbol R",
             "params": []
           }
         ]
