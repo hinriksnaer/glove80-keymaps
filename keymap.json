@@ -7,8 +7,8 @@
   "unlisted": false,
   "date": 1761750334,
   "creator": "sunaku",
-  "title": "Glorious Engrammer v42-rc6 (preview)",
-  "notes": "Sunaku's Keymap v42-rc6 for the \"Glorious Engrammer\" \ud83e\uddd1\u200d\ud83d\ude80\ud83d\ude80\u2728\n- Intro & setup: https://github.com/sunaku/glove80-keymaps/tree/v42-rc6/#readme\n- Release notes: https://github.com/sunaku/glove80-keymaps/releases/tag/v42-rc6\n- Printable map: https://github.com/sunaku/glove80-keymaps/raw/v42-rc6/README/all-layer-diagrams.pdf\n- Documentation: https://sunaku.github.io/moergo-glove80-keyboard.html#layers\n- Discord forum: **#glorious-engrammer** channel in https://www.moergo.com/discord",
+  "title": "glovepunk",
+  "notes": "Custom Glove80 keymap configuration",
   "tags": [
     "sunaku",
     "home-row-mods",
