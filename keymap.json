@@ -315,7 +315,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&LeftPinky (C, LAYER_Enthium)",
+            "value": "&LeftPinky (C, 0)",
             "params": []
           }
         ]
@@ -324,7 +324,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&LeftRingy (I, LAYER_Enthium)",
+            "value": "&LeftRingy (I, 0)",
             "params": []
           }
         ]
@@ -333,7 +333,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&LeftMiddy (A, LAYER_Enthium)",
+            "value": "&LeftMiddy (A, 0)",
             "params": []
           }
         ]
@@ -342,7 +342,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&LeftIndex (E, LAYER_Enthium)",
+            "value": "&LeftIndex (E, 0)",
             "params": []
           }
         ]
@@ -369,7 +369,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&RightIndex (H, LAYER_Enthium)",
+            "value": "&RightIndex (H, 0)",
             "params": []
           }
         ]
@@ -378,7 +378,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&RightMiddy (T, LAYER_Enthium)",
+            "value": "&RightMiddy (T, 0)",
             "params": []
           }
         ]
@@ -387,7 +387,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&RightRingy (N, LAYER_Enthium)",
+            "value": "&RightRingy (N, 0)",
             "params": []
           }
         ]
@@ -396,7 +396,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&RightPinky (S, LAYER_Enthium)",
+            "value": "&RightPinky (S, 0)",
             "params": []
           }
         ]
@@ -414,7 +414,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&mo LAYER_Lower",
+            "value": "&mo 9",
             "params": []
           }
         ]
@@ -468,7 +468,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb LAYER_Function ESC",
+            "value": "&thumb 4 ESC",
             "params": []
           }
         ]
@@ -513,7 +513,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb LAYER_Symbol R",
+            "value": "&thumb 5 R",
             "params": []
           }
         ]
@@ -567,7 +567,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&mo LAYER_Lower",
+            "value": "&mo 9",
             "params": []
           }
         ]
@@ -607,7 +607,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb LAYER_Emoji BSLH",
+            "value": "&thumb 0 BSLH",
             "params": []
           }
         ]
@@ -616,7 +616,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb LAYER_Cursor SPACE",
+            "value": "&thumb 2 SPACE",
             "params": []
           }
         ]
@@ -625,7 +625,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb LAYER_Number TAB",
+            "value": "&thumb 3 TAB",
             "params": []
           }
         ]
@@ -634,7 +634,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb LAYER_Typing INSERT",
+            "value": "&thumb 1 INSERT",
             "params": []
           }
         ]
@@ -643,7 +643,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb LAYER_Typing DELETE",
+            "value": "&thumb 1 DELETE",
             "params": []
           }
         ]
@@ -652,7 +652,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb LAYER_Mouse BACKSPACE",
+            "value": "&thumb 0 BACKSPACE",
             "params": []
           }
         ]
@@ -661,7 +661,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&space LAYER_Symbol R",
+            "value": "&space 5 R",
             "params": []
           }
         ]
@@ -670,7 +670,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb LAYER_World PAGE_UP",
+            "value": "&thumb 0 PAGE_UP",
             "params": []
           }
         ]
@@ -1695,7 +1695,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&tog LAYER_Cursor",
+            "value": "&tog 2",
             "params": []
           }
         ]
@@ -2361,7 +2361,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&tog LAYER_Number",
+            "value": "&tog 3",
             "params": []
           }
         ]
@@ -2871,7 +2871,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&tog LAYER_Function",
+            "value": "&tog 4",
             "params": []
           }
         ]
@@ -3666,7 +3666,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&tog LAYER_Symbol",
+            "value": "&tog 5",
             "params": []
           }
         ]
@@ -4080,7 +4080,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&tog LAYER_System",
+            "value": "&tog 6",
             "params": []
           }
         ]
@@ -6011,7 +6011,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&tog LAYER_Function",
+            "value": "&tog 4",
             "params": []
           }
         ]
@@ -6036,7 +6036,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&tog LAYER_System",
+            "value": "&tog 6",
             "params": []
           }
         ]
@@ -6110,7 +6110,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&tog LAYER_Emoji",
+            "value": "&tog 0",
             "params": []
           }
         ]
@@ -6119,7 +6119,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&tog LAYER_Cursor",
+            "value": "&tog 2",
             "params": []
           }
         ]
@@ -6128,7 +6128,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&tog LAYER_Number",
+            "value": "&tog 3",
             "params": []
           }
         ]
@@ -6145,7 +6145,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&tog LAYER_Mouse",
+            "value": "&tog 0",
             "params": []
           }
         ]
@@ -6154,7 +6154,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&tog LAYER_Symbol",
+            "value": "&tog 5",
             "params": []
           }
         ]
@@ -6163,7 +6163,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&tog LAYER_World",
+            "value": "&tog 0",
             "params": []
           }
         ]
