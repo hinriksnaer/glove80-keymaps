@@ -21,8 +21,8 @@ layer_mapping = {
 with open('keymap.json', 'r') as f:
     data = json.load(f)
 
-# Get the custom_devicetree field
-devicetree = data.get('custom_defined_devicetree', '')
+# Get the custom_devicetree field (not custom_defined_devicetree!)
+devicetree = data.get('custom_devicetree', '')
 
 # Replace all LAYER_ constants with numeric IDs in layer-id assignments
 for layer_name, layer_id in layer_mapping.items():
@@ -32,7 +32,7 @@ for layer_name, layer_id in layer_mapping.items():
     devicetree = re.sub(pattern, replacement, devicetree)
 
 # Update the JSON
-data['custom_defined_devicetree'] = devicetree
+data['custom_devicetree'] = devicetree
 
 # Write back
 with open('keymap.json', 'w') as f:
