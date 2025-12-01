@@ -513,7 +513,7 @@
         "value": "Custom",
         "params": [
           {
-            "value": "&thumb 5 R",
+            "value": "&thumb 6 ENTER",
             "params": []
           }
         ]
@@ -604,10 +604,10 @@
         ]
       },
       {
-        "value": "Custom",
+        "value": "&kp",
         "params": [
           {
-            "value": "&thumb 0 BSLH",
+            "value": "BSLH",
             "params": []
           }
         ]
